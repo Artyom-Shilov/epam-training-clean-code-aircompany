@@ -6,11 +6,3 @@ Java - original pretty version
 Java - final corrupted version with voilations
 =======================================
 * Vitali Shulha
-
-JS version
-==========
-* @SnezhanaMatskevich
-
-C# version
-==========
-* @DenisChulkov
