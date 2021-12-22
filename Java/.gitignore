@@ -1,3 +1,7 @@
+/JS/
+/Net/
+
+
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -11,6 +15,7 @@
 .sts4-cache
 
 ### IntelliJ IDEA ###
+.idea
 *.iws
 *.iml
 *.ipr
